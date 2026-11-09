@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.padelexpertlab/raquettes",
+  "title": "Padel Expert Lab",
+  "description": "Padel racket comparator for France and Belgium, in French: search, brand specs, profile-based picks.",
+  "websiteUrl": "https://padelexpertlab.com/connecteur-ia/",
+  "icons": [
+    {
+      "src": "https://padelexpertlab.com/icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "192x192"
+      ]
+    }
+  ],
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://padelexpertlab.com/api/mcp/"
+    }
+  ]
+}
