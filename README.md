@@ -1,5 +1,7 @@
 # Padel Expert Lab — MCP server (padel rackets)
 
+[![mcptry](https://mcptry.com/badge/com.padelexpertlab/raquettes)](https://mcptry.com/servers/com.padelexpertlab/raquettes)
+
 [Padel Expert Lab](https://padelexpertlab.com/) is a free padel racket comparator for France and Belgium. This repository documents its **remote, read-only MCP server**: an AI assistant can search the racket catalogue, read brand specifications and get picks for a player profile. Answers are in French.
 
 > 🇫🇷 Version française plus bas : [Français](#français).
