@@ -4,6 +4,10 @@
   "title": "Padel Expert Lab",
   "description": "Padel racket comparator for France and Belgium, in French: search, brand specs, profile-based picks.",
   "websiteUrl": "https://padelexpertlab.com/connecteur-ia/",
+  "repository": {
+    "url": "https://github.com/FluxCoreGroup/padelexpertlab-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://padelexpertlab.com/icon.png",
@@ -13,7 +17,7 @@
       ]
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
